@@ -6,7 +6,7 @@ from app.main import is_isogram
     "initial_meaning_word, expected_result",
     [
         pytest.param(
-            '',
+            "",
             True,
         ),
 
